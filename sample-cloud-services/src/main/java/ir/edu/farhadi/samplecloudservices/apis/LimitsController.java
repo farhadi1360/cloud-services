@@ -1,6 +1,6 @@
 package ir.edu.farhadi.samplecloudservices.apis;
 
-import ir.edu.farhadi.samplecloudservices.Config;
+import ir.edu.farhadi.samplecloudservices.config.Config;
 import ir.edu.farhadi.samplecloudservices.models.Limit;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

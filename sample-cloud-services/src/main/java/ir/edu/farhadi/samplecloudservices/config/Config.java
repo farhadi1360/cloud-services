@@ -1,4 +1,4 @@
-package ir.edu.farhadi.samplecloudservices;
+package ir.edu.farhadi.samplecloudservices.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
